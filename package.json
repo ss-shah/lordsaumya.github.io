@@ -33,13 +33,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LordSaumya/lordsaumya.github.io.git"
+    "url": "git+https://github.com/ss-shah/lordsaumya.github.io.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/LordSaumya/lordsaumya.github.io/issues"
+    "url": "https://github.com/ss-shah/lordsaumya.github.io/issues"
   },
-  "homepage": "https://github.com/LordSaumya/lordsaumya.github.io#readme"
+  "homepage": "https://github.com/ss-shah/lordsaumya.github.io#readme"
 }
